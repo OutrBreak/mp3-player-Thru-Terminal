@@ -1,0 +1,19 @@
+#!/usr/bin/env python3
+"""
+Serial Experiments Lain - Audio Interface Launcher
+CLOSE THE WORLD, OPEN THE nExt
+"""
+
+import sys
+import os
+
+# Get the directory where this script is located
+script_dir = os.path.dirname(os.path.abspath(__file__))
+player_path = os.path.join(script_dir, 'player.py')
+
+# Execute the player
+if os.path.exists(player_path):
+    exec(open(player_path).read())
+else:
+    print("ERROR: player.py not found!")
+    sys.exit(1)

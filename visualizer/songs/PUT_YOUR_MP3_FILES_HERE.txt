@@ -1,0 +1,14 @@
+📁 MP3 Songs Folder
+
+Drop your MP3 files here!
+
+The player will automatically detect and play all .mp3 files in this folder.
+
+Examples:
+- song1.mp3
+- favorite_track.mp3
+- my_music.mp3
+
+Then run: python3 ../player.py
+
+Enjoy! ♪

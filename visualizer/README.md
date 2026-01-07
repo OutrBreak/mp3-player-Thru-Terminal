@@ -1,6 +1,6 @@
 # SERIAL EXPERIMENTS LAIN - THE WIRED AUDIO INTERFACE MADE BY OUTRBREAK
 
-A terminal-based MP3 player themed after Serial Experiments Lain, featuring real-time audio visualization in the iconic green/cyan terminal aesthetic of THE WIRED.
+A terminal-based MP3 player themed after Serial Experiments Lain, featuring real-time audio visualization in the aesthetic of THE WIRED.
 
 ```
 [ PRESENT DAY - PRESENT TIME ]
